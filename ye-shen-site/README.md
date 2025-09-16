@@ -13,7 +13,7 @@ Includes pages: such as: Home, About, Research, Contact.
    - `url: "https://your-username.github.io"`
    - For project sites, set `baseurl: "/your-repo-name"`.
    - Update `social` links (Scholar, LinkedIn, X) as you see fit.
-4. Enable Pages in **Settings → Pages** (GitHub Actions or Deploy from branch).
+4. Once you have made your edits and want to make it public, go to: Enable Pages in **Settings → Pages** (GitHub Actions or Deploy from branch).
 5. Customize the current text in `index.md`, `about.md`, `research.md`, `contact.md` if you are not Ye Shen. 
 
 ### Local Preview (optional)
