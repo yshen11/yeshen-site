@@ -1,7 +1,7 @@
 
 title: Ye Shen
 description: PhD Candidate • Health Policy (Decision Sciences) • Harvard University
-baseurl: "" 
+baseurl: "/yeshen-site" 
 url: "https://yshen11.github.io"
 theme: null
 markdown: kramdown
