@@ -39,7 +39,6 @@ nav:
 social:
   scholar: "https://scholar.google.com/citations?user=c3IRn-EAAAAJ"
   linkedin: "https://www.linkedin.com/in/yeshen11"
-  twitter: "https://x.com/yeah_shen"
 
 exclude:
   - README.md
