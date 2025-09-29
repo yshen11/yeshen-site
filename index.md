@@ -7,7 +7,7 @@ title: Home
     <img src="{{ '/assets/img/YSheadshot.jpg' | relative_url }}"
          alt="Portrait of Ye Shen, PhD candidate in Health Policy"
          class="headshot-img" 
-         style="max-width:500px; height:auto;"
+         style="max-width:500px; max-height:500px;"
       />
   </div>
   <div class="hero-text">
