@@ -10,32 +10,12 @@ permalink: pretty
 nav:
   - name: Home
     link: /
-  - name: About
-    link: /about/
-  - name: Research
-    link: /research/
-  - name: Publications
-    link: /publications/
-  - name: Teaching
-    link: /teaching/
   - name: CV
     link: /cv/
   - name: Contact
     link: /contact/
     link: /
-  - name: About
-    link: /about/
-  - name: Research
-    link: /research/
-  - name: Publications
-    link: /publications/
-  - name: Teaching
-    link: /teaching/
-  - name: CV
-    link: /cv/
-  - name: Contact
-    link: /contact/
-
+  
 social:
   scholar: "https://scholar.google.com/citations?user=c3IRn-EAAAAJ"
   linkedin: "https://www.linkedin.com/in/yeshen11"
