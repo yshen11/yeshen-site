@@ -6,7 +6,9 @@ title: Home
   <div class="headshot">
     <img src="{{ '/assets/img/YSheadshot.jpg' | relative_url }}"
          alt="Portrait of Ye Shen, PhD candidate in Health Policy"
-         class="headshot-img" />
+         class="headshot-img" 
+         style="max-width:500px; height:auto;"
+      />
   </div>
   <div class="hero-text">
     <p class="badge">Health Policy · Decision Sciences</p>
@@ -25,6 +27,6 @@ Ye Shen is a PhD candidate in the [Harvard PhD Program in Health Policy](https:/
   <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
        alt="Illustration of the union between health decision science and health services, outcomes & policy research"
        class="twofields-img"
-       style="max-width:300px; height:auto;"
+       style="max-width:500px; height:auto;"
     />
 </div>
