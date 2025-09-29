@@ -145,7 +145,23 @@ body {
   border-radius: 50%;
   display: block;
   margin: 0 auto;
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 1rem 0;
 }
+
+.twofields-img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 1rem auto;
+  display: block;
+}
+
+.hero-text { /* optional spacing */
+  padding-left: 1rem;
+}
+
+.center { text-align: center; }
 
 
 /* Headshot styles */
