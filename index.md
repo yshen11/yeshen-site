@@ -23,6 +23,8 @@ Ye Shen is a PhD candidate in the [Harvard PhD Program in Health Policy](https:/
 **Email:** <a href="mailto:ye_shen@fas.harvard.edu">ye_shen@fas.harvard.edu</a>  
 **Curriculum Vitae:** <a href="/yeshen-site/assets/cv/Ye_Shen_CV.pdf" target="_blank" rel="noopener">Download PDF</a>  
 **LinkedIn:** <a href="https://www.linkedin.com/in/yeshen11" target="_blank" rel="noopener">yeshen11</a>
+**GitHub:** <a href="https://github.com/yshen11" target="_blank" rel="noopener"> https://github.com/yshen11 </a>
+
 
 <div class="center">
   <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
