@@ -25,6 +25,6 @@ Ye Shen is a PhD candidate in the [Harvard PhD Program in Health Policy](https:/
   <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
        alt="Illustration of the union between health decision science and health services, outcomes & policy research"
        class="twofields-img"
-       style="max-width:150px; height:auto;"
+       style="max-width:300px; height:auto;"
     />
 </div>
