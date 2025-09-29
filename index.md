@@ -24,8 +24,8 @@ title: Home
 
 My work sits at the intersection of two complementary fields:
 
-- **Health decision science** – developing decision‑analytic and microsimulation models.  
-- **Health services, outcomes, & policy research** – examining how the fragmented U.S. health system influences childhood insurance coverage, care utilization, and health outcomes.
+- **Health decision science**: developing decision‑analytic and microsimulation models.  
+- **Health services, outcomes, & policy research**: examining how the fragmented U.S. health system influences childhood insurance coverage, care utilization, and health outcomes.
 
 Using microsimulation, I evaluate policy levers that could improve equity and efficiency in health‑care delivery. I have also led decision analyses, disease‑simulation projects, and experimental/quasi‑experimental evaluations across a range of health‑policy questions.
 
