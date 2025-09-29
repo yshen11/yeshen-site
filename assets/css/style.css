@@ -99,6 +99,11 @@ body {
   background: var(--muted);
 }
 
+.union-wrapper .twofields-img {
+  max-width: 150px;   /* adjust to whatever you need */
+  height: auto;       /* keep aspect ratio */
+}
+
 .nav {
   display: flex;
   ga
