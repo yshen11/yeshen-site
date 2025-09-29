@@ -11,11 +11,6 @@ title: Home
   <div class="hero-text">
     <p class="badge">Health Policy · Decision Sciences</p>
     <h1>Ye Shen</h1>
-    <p class="lede">
-      Ye Shen is a PhD candidate in the
-      <a href="https://healthpolicy.fas.harvard.edu/people/ye-shen">Harvard PhD Program in Health Policy</a>
-      (Decision Sciences).
-    </p>
   </div>
 </section>   
 
