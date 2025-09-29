@@ -4,7 +4,7 @@ title: Home
 ---
 <section class="hero">
   <div class="headshot">
-    <img src="{{ '/ye-shen-site/assets/img/YSheadshot.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/YSheadshot.jpg' | relative_url }}"
          alt="Portrait of Ye Shen, PhD candidate in Health Policy"
          class="headshot-img" />
   </div>
@@ -36,7 +36,7 @@ Using microsimulation, I evaluate policy levers that could improve equity and ef
 **LinkedIn:** <a href="https://www.linkedin.com/in/yeshen11" target="_blank" rel="noopener">yeshen11</a>
 
 <div class="center">
-  <img src="{{ '/ye-shen-site/assets/img/unionof2fields.png' | relative_url }}"
+  <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
        alt="Illustration of the union between health decision science and health services, outcomes & policy research"
        class="twofields-img" />
 </div>
