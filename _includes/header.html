@@ -1,10 +1,12 @@
 <header class="site-header">
-  <h1>Ye Shen</h1>
+  <h1 class="site-title">Ye Shen</h1>
 
   <nav class="site-nav">
-    <ul>
+    <ul class="nav-list">
       {% for item in site.nav %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        </li>
       {% endfor %}
     </ul>
   </nav>
