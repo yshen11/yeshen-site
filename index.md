@@ -16,7 +16,6 @@ title: Home
       <a href="https://healthpolicy.fas.harvard.edu/people/ye-shen">Harvard PhD Program in Health Policy</a>
       (Decision Sciences).
     </p>
-    <p><a href="{{ '/research/' | relative_url }}" class="btn">See research →</a></p>
   </div>
 </section>   
 
