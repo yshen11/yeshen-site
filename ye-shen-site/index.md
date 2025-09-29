@@ -2,18 +2,23 @@
 layout: default
 title: Home
 ---
-
 <section class="hero">
   <div class="headshot">
-    <img src="{{ 'ye-shen-site/assets/img/YSheadshot.jpg' | relative_url }}" alt="Portrait of Ye Shen, PhD candidate in Health Policy" class="headshot-img" />
+    <img src="{{ '/ye-shen-site/assets/img/YSheadshot.jpg' | relative_url }}"
+         alt="Portrait of Ye Shen, PhD candidate in Health Policy"
+         class="headshot-img" />
   </div>
   <div class="hero-text">
     <p class="badge">Health Policy · Decision Sciences</p>
     <h1>Ye Shen</h1>
-    <p class="lede">Ye Shen is a PhD candidate in the <a href="https://healthpolicy.fas.harvard.edu/people/ye-shen">Harvard PhD Program in Health Policy</a> (Decision Sciences).</p>
+    <p class="lede">
+      Ye Shen is a PhD candidate in the
+      <a href="https://healthpolicy.fas.harvard.edu/people/ye-shen">Harvard PhD Program in Health Policy</a>
+      (Decision Sciences).
+    </p>
     <p><a href="{{ '/research/' | relative_url }}" class="btn">See research →</a></p>
   </div>
-</section>
+</section>   
 
 ### Research Focus
 
@@ -31,5 +36,7 @@ Using microsimulation, I evaluate policy levers that could improve equity and ef
 **LinkedIn:** <a href="https://www.linkedin.com/in/yeshen11" target="_blank" rel="noopener">yeshen11</a>
 
 <div class="center">
-  <img src="{{ 'ye-shen-site/assets/img/unionof2fields.png' | relative_url }}" alt="Illustration of the union between health decision science and health services, outcomes & policy research" class="twofields-img" />
+  <img src="{{ '/ye-shen-site/assets/img/unionof2fields.png' | relative_url }}"
+       alt="Illustration of the union between health decision science and health services, outcomes & policy research"
+       class="twofields-img" />
 </div>
