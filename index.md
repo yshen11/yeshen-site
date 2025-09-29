@@ -20,16 +20,8 @@ title: Home
   </div>
 </section>   
 
-### Research Focus
+Ye Shen is a PhD candidate in the [Harvard PhD Program in Health Policy](https://healthpolicy.fas.harvard.edu/people/ye-shen) (Decision Sciences). Her research spans two fields: 1) health decision science and 2) health services, outcomes, and policy research. At their intersection, Ye's core research agenda applies microsimulation modeling to examine how the fragmented U.S. health system shapes childhood insurance coverage, care utilization, and outcomes, with implications for insurance policy and care delivery strategies. In addition, she has led and contributed to decision analyses, disease simulation modeling, and experimental and quasi-experimental evaluations addressing diverse health policy questions and clinical domains. Ye holds a M.S.P.H from Johns Hopkins Bloomberg School of Public Health and a B.A. from Tufts University. 
 
-My work sits at the intersection of two complementary fields: 
-
-- **Health decision science**: developing decision‑analytic and microsimulation models.  
-- **Health services, outcomes, & policy research**: examining how the fragmented U.S. health system influences childhood insurance coverage, care utilization, and health outcomes.
-
-Using microsimulation, I evaluate policy levers that could improve equity and efficiency in health‑care delivery. I have also led decision analyses, disease‑simulation projects, and experimental/quasi‑experimental evaluations across a range of health‑policy questions.
-
-**Education:** M.S.P.H. from Johns Hopkins Bloomberg School of Public Health; B.A. from Tufts University.
 
 **Email:** <a href="mailto:ye_shen@fas.harvard.edu">ye_shen@fas.harvard.edu</a>  
 **Curriculum Vitae:** <a href="/ye-shen-site/assets/cv/Ye_Shen_CV.pdf" target="_blank" rel="noopener">Download PDF</a>  
