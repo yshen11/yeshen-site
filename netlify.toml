@@ -1,0 +1,18 @@
+[build]
+  command = "jekyll build -s . -d _site"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.2"
+
+# Speed up: ignore rebuilds on edits that don't affect the site
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+
+[build.processing]
+  skip_processing = false
+
+# Ensure HTML is parsed for forms even without JS
+[build.processing.html]
+  pretty_urls = true
+  sanitize = false
