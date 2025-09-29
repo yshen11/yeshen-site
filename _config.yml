@@ -9,11 +9,11 @@ permalink: pretty
 
 nav:
   - name: Home
-    link: /
+    url: "/"
   - name: CV
-    link: /cv.md
+    url: "/cv/"
   - name: Contact
-    link: /contact.md
+    url: "/contact/"
   
 social:
   scholar: "https://scholar.google.com/citations?user=c3IRn-EAAAAJ"
