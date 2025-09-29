@@ -1,41 +1,65 @@
+/* ==============================================================
+   Global colour palette
+   ============================================================== */
 :root {
-  --bg: #0e1116;
-  --muted: #1a1f29;
-  --text: #f2f5f7;
-  --accent: #6ec1e4;
+  --bg:       #FFFFFF;
+  --muted:    #303030;
+  --text:     #000000;
+  --accent:   #a5a5a5;
   --accent-2: #ffd166;
 }
 
-* { box-sizing: border-box; }
-html, body { margin:0; padding:0; }
+/* ==============================================================
+   Reset & base typography
+   ============================================================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html,
 body {
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI,
+               Roboto, Helvetica, Arial, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
 }
 
+/* ==============================================================
+   Layout helpers
+   ============================================================== */
 .container {
   width: min(1100px, 92vw);
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
+/* ==============================================================
+   Header / Navigation
+   ============================================================== */
 .site-header {
-  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+  /* keep your gradient / sticky behaviour */
+  background: linear-gradient(180deg,
+              rgba(255,255,255,0.02),
+              rgba(255,255,255,0));
   position: sticky;
   top: 0;
   backdrop-filter: blur(8px);
   z-index: 10;
-}
 
-.nav-wrap {
+  /* NEW – flex container for brand + nav */
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 1rem 0;
 }
 
+/* Brand (the “Ye Shen” text) */
 .brand {
   text-decoration: none;
   color: var(--text);
@@ -43,129 +67,38 @@ body {
   letter-spacing: 0.5px;
   line-height: 0.9;
 }
-.brand-top { display:block; font-size: 1.1rem; text-transform: uppercase; opacity: 0.9; }
-.brand-bottom { display:block; font-size: 1.8rem; }
-
-.nav {
-  display: flex;
-  gap: 1rem;
-  list-style: none;
-  margin: 0; padding: 0;
+.brand-top {
+  display: block;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  opacity: 0.9;
 }
-.nav a {
+.brand-bottom {
+  display: block;
+  font-size: 1.8rem;
+}
+
+/* Navigation list – horizontal Flexbox */
+.nav-list {
+  display: flex;
+  gap: 1rem;               /* space between items */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-item {}
+.nav-link {
   color: var(--text);
   text-decoration: none;
   padding: 0.4rem 0.7rem;
   border-radius: 0.6rem;
   transition: background 0.2s ease;
 }
-.nav a:hover, .nav a.active { background: var(--muted); }
-
-.hero {
-  display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
-  gap: 2rem;
-  align-items: center;
-  padding: 2rem 0 1rem;
-}
-.hero h1 {
-  margin: 0 0 0.5rem;
-  font-size: clamp(2rem, 6vw, 3rem);
-}
-.hero p.lede { font-size: 1.1rem; opacity: 0.9; }
-.badge { color: var(--accent); letter-spacing: 0.1em; font-weight: 600; }
-
-.card-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin-top: 1rem;
-}
-.card {
+.nav-link:hover,
+.nav-link.active {
   background: var(--muted);
-  border-radius: 1rem;
-  padding: 1rem;
-  min-height: 160px;
+}
+
+.nav {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.card h3 { margin: 0.2rem 0 0.3rem; }
-
-.kicker { text-transform: uppercase; letter-spacing: 0.12em; opacity: 0.8; font-size: 0.8rem; }
-
-.section {
-  margin: 2rem 0;
-  padding: 1.2rem;
-  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
-  border-radius: 1rem;
-}
-
-.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
-.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-
-.team {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem;
-}
-.team .member {
-  background: var(--muted);
-  border-radius: 1rem;
-  padding: 1rem;
-}
-.member h3 { margin: 0.2rem 0; }
-
-.site-footer {
-  border-top: 1px solid rgba(255,255,255,0.08);
-  margin-top: 3rem;
-}
-.footer-grid {
-  display: grid;
-  grid-template-columns: 1.2fr 1fr 1fr 1fr;
-  gap: 1rem;
-}
-.brand-lite { font-weight: 800; font-size: 1.4rem; line-height: 1; opacity: 0.9; }
-
-/* Responsive */
-@media (max-width: 900px) {
-  .hero { grid-template-columns: 1fr; }
-  .card-row, .grid-3 { grid-template-columns: 1fr; }
-  .footer-grid { grid-template-columns: 1fr 1fr; }
-}
-
-.btn { display:inline-block; padding:0.6rem 0.9rem; border-radius:0.6rem; background: var(--accent); color:#091017; font-weight:700; text-decoration:none; }
-
-
-.headshot {
-  max-width: 200px;
-  margin: 1rem auto;
-}
-.headshot img, .headshot-img {
-  width: 100%;
-  height: auto;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto;
-  max-width: 200px;
-  border-radius: 50%;
-  margin: 1rem 0;
-}
-
-.twofields-img {
-  max-width: 200px;
-  border-radius: 50%;
-  margin: 1rem auto;
-  display: block;
-}
-
-.hero-text { /* optional spacing */
-  padding-left: 1rem;
-}
-
-.center { text-align: center; }
-
-
-/* Headshot styles */
-.headshot-wrap { display:flex; align-items:center; justify-content:center; }
-.headshot { width: 220px; height: 220px; border-radius: 999px; overflow: hidden; border: 3px solid rgba(255,255,255,0.08); box-shadow: 0 10px 30px rgba(0,0,0,0.25); }
-.headshot img { width:100%; height:100%; object-fit: cover; display:block; }
-@media (max-width: 900px) { .headshot { width: 160px; height: 160px; } }
+  ga
