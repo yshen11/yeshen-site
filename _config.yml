@@ -11,9 +11,9 @@ nav:
   - name: Home
     link: /
   - name: CV
-    link: /cv/
+    link: /cv.md
   - name: Contact
-    link: /contact/
+    link: /contact.md
   
 social:
   scholar: "https://scholar.google.com/citations?user=c3IRn-EAAAAJ"
