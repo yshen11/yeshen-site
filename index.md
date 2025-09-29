@@ -22,7 +22,7 @@ title: Home
 
 ### Research Focus
 
-My work sits at the intersection of two complementary fields:
+My work sits at the intersection of two complementary fields: 
 
 - **Health decision science**: developing decision‑analytic and microsimulation models.  
 - **Health services, outcomes, & policy research**: examining how the fragmented U.S. health system influences childhood insurance coverage, care utilization, and health outcomes.
