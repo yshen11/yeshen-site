@@ -5,10 +5,6 @@ title: About
 
 ## About
 
-<img src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Headshot of Ye Shen" class="headshot-img" style="max-width:200px; border-radius:50%; margin:1rem 0;"/>
+<img src="{{ 'ye-shen-site/assets/img/YSheadshot.jpg' | relative_url }}" alt="Headshot of Ye Shen" class="headshot-img" style="max-width:200px; border-radius:50%; margin:1rem 0;"/>
 
-I'm a PhD candidate in the Harvard PhD Program in Health Policy (Decision Sciences). My work applies simulation modeling, decision-analytic, and policy evaluation methods to health policy topics intersecting the social safety net. Current areas include primary care, dental care, and medical–dental integration.
-
-Before my doctorate, I earned an MSPH from Johns Hopkins (International Health—Human Nutrition, with a certificate in Public Health Economics). I have contributed to projects on dental workforce, eating disorders, and food security across the United States, Canada, and low‑income countries.
-
-When I'm not modeling policy scenarios, I enjoy translating complex methods into practical tools for decision‑makers. I also enjoy hiking and am an avid birder.
+Ye Shen is a PhD candidate in the [Harvard PhD Program in Health Policy](https://healthpolicy.fas.harvard.edu/people/ye-shen) (Decision Sciences). Her research spans two fields: 1) health decision science and 2) health services, outcomes, and policy research. At their intersection, Ye's core research agenda applies microsimulation modeling to examine how the fragmented U.S. health system shapes childhood insurance coverage, care utilization, and outcomes, with implications for insurance policy and care delivery strategies. In addition, she has led and contributed to decision analyses, disease simulation modeling, and experimental and quasi-experimental evaluations addressing diverse health policy questions and clinical domains. Ye holds a M.S.P.H from Johns Hopkins Bloomberg School of Public Health and a B.A. from Tufts University. 
