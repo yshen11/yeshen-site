@@ -28,16 +28,6 @@ title: Home
 
 <section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem; align-items:center; justify-items:center;">
   <figure style="margin:0;">
-    <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
-         alt="Illustration of the union between health decision science and health services, outcomes & policy research"
-         style="width:100%; max-width:520px; height:auto;"
-    />
-    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
-      Union of health decision science and health services/outcomes & policy research
-    </figcaption>
-  </figure>
-
-  <figure style="margin:0;">
     <img src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
          alt="Childhood insurance coverage flow diagram"
          style="width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
@@ -51,7 +41,18 @@ title: Home
         </a>
       </div>
     </details>
+    
   </figure>
+  <figure style="margin:0;">
+    <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
+         alt="Illustration of the union between health decision science and health services, outcomes & policy research"
+         style="width:100%; max-width:520px; height:auto;"
+    />
+    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
+      Union of health decision science and health services/outcomes & policy research
+    </figcaption>
+  </figure>
+  
 </section>
 
 
