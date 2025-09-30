@@ -4,7 +4,7 @@ A minimalist personal site. This site was originally made by and for Ye Shen, a 
 
 ## About this template
 Built for GitHub Pages (Jekyll). 
-Includes pages: such as: Home, About, Research, Contact.
+Includes pages: such as: Home, CV, Contact.
 
 ## Quick Start
 1. Create a repo on GitHub (user site `your-username.github.io` or project site).
