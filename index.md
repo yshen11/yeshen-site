@@ -26,10 +26,11 @@ title: Home
   </div>
 </section>   
 
-<div class="center" style="margin-top:2rem;">
+
+<section style="display:flex; justify-content:center; align-items:center; min-height:60vh;">
   <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
        alt="Illustration of the union between health decision science and health services, outcomes & policy research"
-       class="twofields-img"
        style="max-width:500px; height:auto;"
-    />
-</div>
+  />
+</section>
+
