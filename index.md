@@ -46,7 +46,7 @@ title: Home
   <figure style="margin:0;">
     <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
          alt="Illustration of the union between health decision science and health services, outcomes & policy research"
-         style="width:100%; max-width:520px; height:auto;"
+         style="width:100%; max-width:620px; height:auto;"
     />
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
      <b>Research Spanning Two Fields</b>
