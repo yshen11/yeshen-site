@@ -9,7 +9,7 @@ title: Home
          alt="Portrait of Ye Shen, PhD candidate in Health Policy"
          class="headshot-img" 
          style="max-width:100%; height:auto; border-radius:8px;"
-         loading="lazy"
+         loading="eager"
       />
   </div>
   <div class="hero-text" style="flex:2; min-width:280px;">
