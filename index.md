@@ -49,7 +49,7 @@ title: Home
          style="width:100%; max-width:520px; height:auto;"
     />
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
-      Union of health decision science and health services/outcomes & policy research
+     <b>Research Spanning Two Fields</b>
     </figcaption>
   </figure>
   
