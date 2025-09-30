@@ -26,11 +26,32 @@ title: Home
   </div>
 </section>   
 
+<section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem; align-items:center; justify-items:center;">
+  <figure style="margin:0;">
+    <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
+         alt="Illustration of the union between health decision science and health services, outcomes & policy research"
+         style="width:100%; max-width:520px; height:auto;"
+    />
+    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
+      Union of health decision science and health services/outcomes & policy research
+    </figcaption>
+  </figure>
 
-<section style="display:flex; justify-content:center; align-items:center; min-height:60vh;">
-  <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
-       alt="Illustration of the union between health decision science and health services, outcomes & policy research"
-       style="max-width:500px; height:auto;"
-  />
+  <figure style="margin:0;">
+    <img src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
+         alt="Childhood insurance coverage flow diagram"
+         style="width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
+         loading="eager"
+    />
+    <details style="margin-top:.6rem;">
+      <summary style="cursor:pointer; font-size:0.95rem;">Show citation</summary>
+      <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
+        Source: <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
+        Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. JAMA. 2025; Published online September 24, 2025. 
+        </a>
+      </div>
+    </details>
+  </figure>
 </section>
+
 
