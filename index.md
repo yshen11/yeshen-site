@@ -21,7 +21,6 @@ title: Home
     <ul>
       <li><strong>Email:</strong> <a href="mailto:ye_shen@fas.harvard.edu">ye_shen@fas.harvard.edu</a></li>
       <li><strong>Curriculum Vitae:</strong> <a href="/yeshen-site/assets/cv/Ye_Shen_CV.pdf" target="_blank" rel="noopener">Download PDF</a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yeshen11" target="_blank" rel="noopener">yeshen11</a></li>
     </ul>
   </div>
 </section>   
