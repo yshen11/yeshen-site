@@ -40,7 +40,9 @@ title: Home
         </a>
       </div>
     </details>
-    
+        <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
+     <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
+    </figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
