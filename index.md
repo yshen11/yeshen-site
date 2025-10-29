@@ -39,7 +39,7 @@ title: Home
      <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
     </figcaption>
     <details style="margin-top:.6rem;">
-      <summary style="cursor:pointer; font-size:0.95rem;">Show Job Market Paper</summary>
+      <summary style="cursor:pointer; font-size:0.95rem;">Show Citation [Job Market Paper]</summary>
       <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
         <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
         Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. JAMA. 2025; Published online September 24, 2025. 
