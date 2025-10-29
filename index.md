@@ -19,7 +19,7 @@ title: Home
       Ye Shen is a PhD candidate in the <a href="https://healthpolicy.fas.harvard.edu/people/ye-shen">Harvard PhD Program in Health Policy (Decision Sciences)</a>. Her research spans two fields: 1) health decision science and 2) health services, outcomes, and policy research. At their intersection, Ye's core research agenda applies microsimulation modeling to examine how the fragmented U.S. health system shapes childhood insurance coverage, care utilization, and outcomes, with implications for insurance policy and care delivery strategies. Her broader research portfolio encompasses experimental and quasi-experimental evaluations, decision analyses, and simulation modeling to address diverse policy and clinical questions in child and adolescent health, oral health, workforce policy, and nutrition and food security. Ye holds a MSPH from Johns Hopkins Bloomberg School of Public Health and a BA from Tufts University. 
     </p>
     <p>
-      Ye is on the 2025-2026 job market.
+      <strong> Ye is on the 2025-2026 job market.</strong>
     </p>  
     <ul>
       <li><strong>Email:</strong> <a href="mailto:ye_shen@fas.harvard.edu">ye_shen@fas.harvard.edu</a></li>
@@ -41,7 +41,7 @@ title: Home
     <details style="margin-top:.6rem;">
       <summary style="cursor:pointer; font-size:0.95rem;">Show Job Market Paper</summary>
       <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
-        Source: <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
+        <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
         Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. JAMA. 2025; Published online September 24, 2025. 
         </a>
       </div>
