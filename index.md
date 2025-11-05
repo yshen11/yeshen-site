@@ -49,7 +49,7 @@ title: Home
 
       <div class="refs__item">
         <strong class="refs__label">Accompanying Editorial:</strong>
-        <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839300" target="_blank" rel="noopener">
+        <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839304" target="_blank" rel="noopener">
           Vasan A, Eliason EL. From Churn to Continuity—Reforming Children’s Coverage. <i>JAMA</i>. 2025;334(17):1517–1519.
         </a>
       </div>
