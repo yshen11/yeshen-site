@@ -38,18 +38,36 @@ title: Home
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
      <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
     </figcaption>
-    <details style="margin-top:.6rem;">
-      <summary style="cursor:pointer; font-size:0.95rem;">Show Citation [Job Market Paper]</summary>
+  <div style="font-size:0.95rem; margin-top:.6rem;">
       <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
+        <strong>Original Investigation:</strong>
         <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
-        Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. JAMA. 2025; Published online September 24, 2025. 
+          Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
+          Insurance dynamics during childhood in the fragmented U.S. health system. 
+          <i>JAMA</i>. 2025;334(17):1533.
         </a>
       </div>
-    </details>
+  
+      <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
+        <strong>Accompanying Editorial:</strong>
+        <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
+          Vasan A, Eliason EL. 
+          From Churn to Continuity—Reforming Children’s Coverage. 
+          <i>JAMA</i>. 2025;334(17):1517–1519.
+        </a>
+      </div>
+  
+      <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
+        <strong>Selected Media Coverage:</strong>
+        <a href="https://www.newsweek.com/most-american-children-rely-on-medicaid-chip-they-could-soon-be-at-risk-10808876" target="_blank" rel="noopener">Newsweek</a>, 
+        <a href="https://www.usnews.com/news/health-news/articles/2025-09-29/most-american-kids-rely-on-medicaid-chip-insurance" target="_blank" rel="noopener">U.S. News &amp; World Report</a>, and 
+        <a href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>.
+      </div>
+    </div>
   </figure>
   <figure style="margin:0;">
     <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
-         alt="Illustration of the union between health decision science and health services, outcomes & policy research"
+         alt="Illustration of the union between health services & policy research and health decision science"
          style="width:100%; max-width:620px; height:auto;"
     />
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
