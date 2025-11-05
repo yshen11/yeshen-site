@@ -29,6 +29,18 @@ title: Home
 </section>   
 
 <section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: 1fr; gap:2rem; justify-items:center;">
+
+  <figure style="margin:0;">
+    <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
+         alt="Illustration of the union between health services & policy research and health decision science"
+         style="width:100%; max-width:620px; height:auto;"
+    />
+    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
+     <b>Research Spanning Two Fields</b>
+    </figcaption>
+  </figure>
+
+  
   <figure style="margin:0;">
     <img src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
          alt="Childhood insurance coverage flow diagram"
@@ -64,15 +76,7 @@ title: Home
       </div>
     </div>
   </figure>
-  <figure style="margin:0;">
-    <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
-         alt="Illustration of the union between health services & policy research and health decision science"
-         style="width:100%; max-width:620px; height:auto;"
-    />
-    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
-     <b>Research Spanning Two Fields</b>
-    </figcaption>
-  </figure>
+
   
 </section>
 
