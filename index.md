@@ -42,10 +42,11 @@ title: Home
 
   
   <figure style="margin:0;">
-    <img src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
-         alt="Childhood insurance coverage flow diagram"
-         style="width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
-         loading="eager"
+    <img
+      src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
+      alt="Childhood insurance coverage flow diagram"
+      style="display:block; margin:auto; width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
+      loading="eager"
     />
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem; margin-bottom:.5rem;">
      <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
