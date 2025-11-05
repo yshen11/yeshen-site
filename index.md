@@ -41,7 +41,7 @@ title: Home
     
   <div class="refs">
       <div class="refs__item">
-        <strong class="refs__label">Original Investigation:</strong>
+        <strong class="refs__label">Job Market Paper:</strong>
         <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
           Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. <i>JAMA</i>. 2025;334(17):1533.
         </a>
