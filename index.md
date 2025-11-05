@@ -38,7 +38,7 @@ title: Home
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
      <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
     </figcaption>
-  <div style="font-size:0.95rem; margin-top:.6rem;">
+    <div style="font-size:0.95rem; margin-top:.6rem;">
       <div style="font-size:0.9rem; color:#555; margin-top:.4rem;">
         <strong>Original Investigation:</strong>
         <a href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
