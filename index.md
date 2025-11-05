@@ -28,7 +28,7 @@ title: Home
   </div>
 </section>   
 
-<section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem; align-items:center; justify-items:center;">
+<section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: 1fr; gap:2rem; justify-items:center;">
   <figure style="margin:0;">
     <img src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
          alt="Childhood insurance coverage flow diagram"
