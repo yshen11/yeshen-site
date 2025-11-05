@@ -42,16 +42,20 @@ title: Home
   <div class="refs">
       <div class="refs__item">
         <strong class="refs__label">Job Market Paper:</strong>
+        Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
         <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
-          Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. Insurance dynamics during childhood in the fragmented U.S. health system. <i>JAMA</i>. 2025;334(17):1533.
+          Insurance dynamics during childhood in the fragmented U.S. health system.
         </a>
+        <i>JAMA</i>. 2025;334(17):1533.
       </div>
 
       <div class="refs__item">
         <strong class="refs__label">Accompanying Editorial:</strong>
+        Vasan A, Eliason EL. 
         <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839304" target="_blank" rel="noopener">
-          Vasan A, Eliason EL. From Churn to Continuity—Reforming Children’s Coverage. <i>JAMA</i>. 2025;334(17):1517–1519.
+          From Churn to Continuity—Reforming Children’s Coverage.
         </a>
+        <i>JAMA</i>. 2025;334(17):1517–1519.
       </div>
 
       <div class="refs__item">
