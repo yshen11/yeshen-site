@@ -88,7 +88,7 @@ title: Home
 
  <figure style="margin:0;">
      <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
-     <b>Research Spanning Two Fields</b>
+     <b>Research Portfolio Spanning Two Fields</b>
     </figcaption>
     
     <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
