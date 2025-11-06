@@ -31,28 +31,20 @@ title: Home
 <section style="max-width:1100px; margin:3rem auto; display:grid; grid-template-columns: 1fr; gap:2rem; justify-items:center;">
 
   <figure style="margin:0;">
+     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
+     <b>Research Spanning Two Fields</b>
+    </figcaption>
+    
     <img src="{{ '/assets/img/unionof2fields.png' | relative_url }}"
          alt="Illustration of the union between health services & policy research and health decision science"
          style="width:100%; max-width:620px; height:auto;"
     />
-    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem;">
-     <b>Research Spanning Two Fields</b>
-    </figcaption>
+   
   </figure>
 
   
   <figure style="margin:0;">
-    <img
-      src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
-      alt="Childhood insurance coverage flow diagram"
-      style="display:block; margin:auto; width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
-      loading="eager"
-    />
-    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem; margin-bottom:.5rem;">
-     <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
-    </figcaption>
-    
-  <div class="refs">
+    <div class="refs">
       <div class="refs__item" style="margin-bottom:.5rem;">
         <strong class="refs__label">Job Market Paper:</strong>
         Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
@@ -76,6 +68,20 @@ title: Home
         <a class="refs__link" href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>.
       </div>
     </div>
+    
+    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem; margin-bottom:.5rem;">
+     <b> Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
+    </figcaption>
+    
+    <img
+      src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
+      alt="Childhood insurance coverage flow diagram"
+      style="display:block; margin:auto; width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
+      loading="eager"
+    />
+    
+    
+  
   </figure>
 
   
