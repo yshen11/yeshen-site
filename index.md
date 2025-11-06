@@ -51,7 +51,7 @@ title: Home
   align-items:start;
 ">
 
-  <!-- Left side: caption above image -->
+  <!-- Left side of second figure>
   <div style="display:flex; flex-direction:column; align-items:center;">
     <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-bottom:.5rem;">
       <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
@@ -65,9 +65,13 @@ title: Home
     />
   </div>
 
-  <!-- Right side: references -->
-  <div class="refs" style="font-size:0.95rem;">
-    <div class="refs__item" style="margin-bottom:.6rem; color:#555; line-height:1.5;">
+  <!-- Right side of second figure -->
+  <div class="refs" style="
+    font-size:0.95rem;
+    align-self:center; 
+    color:#555;
+    line-height:1.5;">    
+  <div class="refs__item" style="margin-bottom:.6rem;">
       <strong class="refs__label">Job Market Paper:</strong>
       Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
       <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
