@@ -43,46 +43,57 @@ title: Home
   </figure>
 
   
-  <figure style="margin:0;">
-    <div class="refs">
-      <div class="refs__item" style="margin-bottom:.5rem;">
-        <strong class="refs__label">Job Market Paper:</strong>
-        Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
-        <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
-          Insurance dynamics during childhood in the fragmented U.S. health system.</a>
-        <i>JAMA</i>. 2025;334(17):1533.
-      </div>
+  <figure style="
+  margin:0;
+  display:grid;
+  grid-template-columns: auto 1fr; /* left: caption+image, right: refs */
+  column-gap:1.5rem;
+  align-items:start;
+">
 
-      <div class="refs__item" style="margin-bottom:.5rem;">
-        <strong class="refs__label">Accompanying Editorial:</strong>
-        Vasan A, Eliason EL. 
-        <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839304" target="_blank" rel="noopener">
-          From churn to continuity — reforming children’s coverage.</a>
-        <i>JAMA</i>. 2025;334(17):1517–1519.
-      </div>
-
-      <div class="refs__item" style="margin-bottom:.5rem;">
-        <strong class="refs__label">Selected Media Coverage:</strong>
-        <a class="refs__link" href="https://www.newsweek.com/most-american-children-rely-on-medicaid-chip-they-could-soon-be-at-risk-10808876" target="_blank" rel="noopener">Newsweek</a>,
-        <a class="refs__link" href="https://www.usnews.com/news/health-news/articles/2025-09-29/most-american-kids-rely-on-medicaid-chip-insurance" target="_blank" rel="noopener">U.S. News &amp; World Report</a>, and
-        <a class="refs__link" href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>.
-      </div>
-    </div>
-    
-    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-top:.5rem; margin-bottom:.5rem;">
-     <b> Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
+  <!-- Left side: caption above image -->
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <figcaption style="text-align:center; font-size:0.9rem; color:#666; margin-bottom:.5rem;">
+      <b>Distribution of Cumulative Childhood Insurance Outcomes by Insurance Type at Birth</b>
     </figcaption>
-    
+
     <img
       src="{{ '/assets/img/childhoodinsurancefig3.png' | relative_url }}"
       alt="Childhood insurance coverage flow diagram"
-      style="display:block; margin:auto; width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
+      style="display:block; width:100%; max-width:520px; height:auto; border:1px solid #ddd; border-radius:6px; padding:6px;"
       loading="eager"
     />
-    
-    
-  
-  </figure>
+  </div>
+
+  <!-- Right side: references -->
+  <div class="refs" style="font-size:0.95rem;">
+    <div class="refs__item" style="margin-bottom:.6rem; color:#555; line-height:1.5;">
+      <strong class="refs__label">Job Market Paper:</strong>
+      Shen Y, Sommers BD, Hatfield LA, Hayes C, Pandya A, Menzies NA. 
+      <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839299" target="_blank" rel="noopener">
+        Insurance dynamics during childhood in the fragmented U.S. health system.
+      </a>
+      <i>JAMA</i>. 2025;334(17):1533.
+    </div>
+
+    <div class="refs__item" style="margin-bottom:.6rem; color:#555; line-height:1.5;">
+      <strong class="refs__label">Accompanying Editorial:</strong>
+      Vasan A, Eliason EL.
+      <a class="refs__link" href="https://jamanetwork.com/journals/jama/article-abstract/2839304" target="_blank" rel="noopener">
+        From churn to continuity — reforming children’s coverage.
+      </a>
+      <i>JAMA</i>. 2025;334(17):1517–1519.
+    </div>
+
+    <div class="refs__item" style="margin-bottom:.6rem; color:#555; line-height:1.5;">
+      <strong class="refs__label">Selected Media Coverage:</strong>
+      <a class="refs__link" href="https://www.newsweek.com/most-american-children-rely-on-medicaid-chip-they-could-soon-be-at-risk-10808876" target="_blank" rel="noopener">Newsweek</a>,
+      <a class="refs__link" href="https://www.usnews.com/news/health-news/articles/2025-09-29/most-american-kids-rely-on-medicaid-chip-insurance" target="_blank" rel="noopener">U.S. News &amp; World Report</a>, and
+      <a class="refs__link" href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>.
+    </div>
+  </div>
+
+</figure>
 
   
 </section>
