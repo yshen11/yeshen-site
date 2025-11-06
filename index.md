@@ -43,13 +43,12 @@ title: Home
   </figure>
 
   
-  <figure style="
+<figure style="
   margin:0;
   display:grid;
-  grid-template-columns: auto 1fr; /* left: caption+image, right: refs */
+  grid-template-columns: auto 1fr;  
   column-gap:1.5rem;
-  align-items:start;
-">
+  align-items:center;">
 
   <!-- Left side of second figure>
   <div style="display:flex; flex-direction:column; align-items:center;">
