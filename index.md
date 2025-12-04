@@ -80,8 +80,9 @@ title: Home
       <div class="refs__item">
         <strong class="refs__label">Selected Media Coverage:</strong>
         <a class="refs__link" href="https://www.newsweek.com/most-american-children-rely-on-medicaid-chip-they-could-soon-be-at-risk-10808876" target="_blank" rel="noopener">Newsweek</a>,
-        <a class="refs__link" href="https://www.usnews.com/news/health-news/articles/2025-09-29/most-american-kids-rely-on-medicaid-chip-insurance" target="_blank" rel="noopener">U.S. News &amp; World Report</a>, and
-        <a class="refs__link" href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>.
+        <a class="refs__link" href="https://www.medscape.com/viewarticle/us-children-face-gaps-health-insurance-coverage-2025a1000psd" target="_blank" rel="noopener">Medscape</a>, 
+         <a class="refs__link" href="https://www.sun-sentinel.com/2025/11/28/medicaid-cuts-arent-just-numbers-theyre-life-changing-to-florida-families/">South Florida Sun Sentinel</a>, and 
+        <a class="refs__link" href="https://www.usnews.com/news/health-news/articles/2025-09-29/most-american-kids-rely-on-medicaid-chip-insurance" target="_blank" rel="noopener">U.S. News &amp; World Report</a>.
       </div>
     </div>
   </figure>
