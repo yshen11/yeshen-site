@@ -8,5 +8,5 @@ permalink: /cv/
 
 <p>
   <a class="btn" href="{{ '/assets/cv/Ye_Shen_CV.pdf' | relative_url }}" target="_blank" download>Download CV (PDF)</a>
-  <br><small>Last updated: 2026-01-06</small>
+  <br><small>Last updated: 2026 spring </small>
 </p>
